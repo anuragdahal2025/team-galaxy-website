@@ -2,6 +2,12 @@
 
 A separate public company website for CET257 Assessment 2, Task B2. This project is independent of the Team Galaxy Safety application and contains no database, login or private credentials.
 
+## Published website
+
+https://team-galaxy-website.onrender.com
+
+GitHub: https://github.com/anuragdahal2025/team-galaxy-website
+
 ## Open locally
 
 From this folder, run:
