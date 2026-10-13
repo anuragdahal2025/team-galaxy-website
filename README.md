@@ -36,6 +36,7 @@ No environment variables, database or start command are required. Use the free o
 - Product: Team Galaxy Safety overview, learning journey, six topics, role descriptions and FAQs.
 - Team: all four members and their project roles.
 - Contact: hosted prototype link and public GitHub question route.
+- Marketing in Practice: completed activity, inspectable examples, future targets and a public marketing-plan PDF.
 
 ## Updating content
 

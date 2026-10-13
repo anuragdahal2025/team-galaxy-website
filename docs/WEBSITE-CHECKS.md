@@ -1,10 +1,10 @@
 # Website checks — 13 October 2026
 
-- Local links, fragment targets and assets verified for five HTML pages.
+- Local links, fragment targets and assets verified for six HTML pages.
 - JavaScript syntax check passed.
 - Hotspot preview changed the displayed lesson after selection.
 - Mobile menu opened, reported expanded state and navigated to Team.
-- Home, Product, Team and Contact checked at desktop width and 390px width on the live site with no horizontal overflow.
+- Home, Product, Team, Contact and Marketing checked at desktop width and 390px width on the live site with no horizontal overflow.
 - All four member names verified.
 - Desktop images loaded without broken assets.
 - Render showed Deploy succeeded / Live; public URL opened.
