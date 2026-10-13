@@ -14,3 +14,5 @@
 .member-portrait .member-photo{position:relative;z-index:1;width:180px;height:180px;border-radius:50%;object-fit:cover;object-position:50% 56%;border:5px solid #fff;box-shadow:0 10px 28px #34588924;background:#f4f7fc}
 @media(max-width:1100px){.member-portrait .member-photo{width:190px;height:190px}}
 @media(max-width:520px){.member-portrait .member-photo{width:185px;height:185px}}
+
+.member-1 .member-photo{object-position:50% 36%}.member-2 .member-photo{object-position:50% 42%}.member-3 .member-photo{object-position:50% 50%}
